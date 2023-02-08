@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<head>
+    <title>{title}</title>
+</head>
+<body>
+    <h1>{name} {surname}</h1>
+    <h2>{age} years - {profession}</h2>
+</body>
+</html>
